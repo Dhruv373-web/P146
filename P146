@@ -1,0 +1,7 @@
+<a-entity>
+         <a-sphere position="0 0 0" radius="2" color="orange"></a-sphere>
+        </a-entity>
+<a-entity position="0 0 0" rotation="0 0 0"
+            animation="property: rotation; to: 0 360 0;easing:linear; loop: true; dur: 55000">
+            <a-sphere position="8  0 -5" radius="0.2" color="purple"></a-sphere>  
+        </a-entity>
